@@ -1,6 +1,6 @@
 # Near2Perfection-Pty-Ltd
 
-Welcome to Near2Perfection-Pty-Ltd, a dynamic organization founded in 2021 by [Your Name] and [Your Wife's Name]. As the Managing Director/CTO and CEO, respectively, we lead a passionate team dedicated to excellence in two key departments: Tutoring Services and IT.
+Welcome to Near2Perfection-Pty-Ltd, a dynamic organization founded in 2021 by [Bradfield JL Phillips] and [Carmen M Phillips]. As the Managing Director/CTO and CEO, respectively, we lead a passionate team dedicated to excellence in two key departments: Tutoring Services and IT.
 
 ## About Us
 
