@@ -1,6 +1,6 @@
 # Near2Perfection-Pty-Ltd
 
-Welcome to Near2Perfection-Pty-Ltd, a dynamic organization founded in 2021 by [Bradfield JL Phillips] and [Carmen M Phillips]. As the Managing Director/CTO and CEO, respectively, we lead a passionate team dedicated to excellence in two key departments: Tutoring Services and IT.
+Welcome to Near2Perfection-Pty-Ltd, a dynamic organization founded in 2021 by Bradfield JL Phillips and Carmen M Phillips. As the Managing Director/CTO and CEO, respectively, we lead a passionate team dedicated to excellence in two key departments: Tutoring Services and IT.
 
 ## About Us
 
@@ -27,6 +27,6 @@ For inquiries or collaboration opportunities, please reach out to [carmen@near2p
 Thank you for visiting Near2Perfection-Pty-Ltd. We look forward to sharing our journey with you!
 
 Best Regards,
-[Bradfield Phillips]
+Bradfield Phillips
 Managing Director/CTO
 Near2Perfection-Pty-Ltd
